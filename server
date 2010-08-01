@@ -1,0 +1,30 @@
+Script started on Sun 01 Aug 2010 11:04:34 AM MDT
+]0;gguest@ubuntu: ~/rails_programs/sample_appgguest@ubuntu:~/rails_programs/sample_app$ /[Kls
+[0m[01;34mapp[0m     [01;34mdb[0m   [01;34mlib[0m  [01;34mpublic[0m    README  server  [01;34mtmp[0m
+[01;34mconfig[0m  [01;34mdoc[0m  [01;34mlog[0m  Rakefile  [01;34mscript[0m  [01;34mspec[0m    [01;34mvendor[0m
+[m]0;gguest@ubuntu: ~/rails_programs/sample_appgguest@ubuntu:~/rails_programs/sample_app$ cd scr[K[K[K[K[K[K/script server
+bash: /script: No such file or directory
+]0;gguest@ubuntu: ~/rails_programs/sample_appgguest@ubuntu:~/rails_programs/sample_app$ cd script
+]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ ls
+[0m[01;32mabout[0m     [01;32mconsole[0m    [01;32mdestroy[0m   [01;34mperformance[0m  [01;32mrunner[0m  [01;32mspec[0m
+[01;32mautospec[0m  [01;32mdbconsole[0m  [01;32mgenerate[0m  [01;32mplugin[0m       [01;32mserver[0m
+[m]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ lscd script/script serverls[Kheroku openrake db:migrategit push heroku master[9Pheroku create[5Pgit pushcommit -a -m "Done with thee demo app"[A]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript/consolegedit ./app/models/micropost.rbb[A]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Puser.rb
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmicropost.rbb[A]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ [16Pscript/console
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgedit ./app/models/micropost.rbb[A]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Puser.rb
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pscript/servergedit ./app/models/micropost.rbb[A]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ [17Pscript/server
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+bash: script/server: No such file or directory
+]0;gguest@ubuntu: ~/rails_programs/sample_app/scriptgguest@ubuntu:~/rails_programs/sample_app/script$ cd ..
+]0;gguest@ubuntu: ~/rails_programs/sample_appgguest@ubuntu:~/rails_programs/sample_app$ cd ..script/server
+=> Booting Mongrel
+=> Rails 2.3.8 application starting on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+^CExiting
+]0;gguest@ubuntu: ~/rails_programs/sample_appgguest@ubuntu:~/rails_programs/sample_app$ script/server
+=> Booting Mongrel
+=> Rails 2.3.8 application starting on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+^[[A^[[B^[[B        
